@@ -1,0 +1,55 @@
+<!doctype html>
+<head>
+	<title>Imagine Cup</title>
+	<meta charset = "UTF-8">
+	
+	<link rel="shortcut icon" href="mscup.ico" type="image/x-icon">
+	<link href="https://fonts.googleapis.com/css?family=Slabo+27px" rel="stylesheet">
+	<link href="https://fonts.googleapis.com/css?family=Raleway" rel="stylesheet">
+	<link rel="stylesheet" href="normalize.css" type="text/css">
+	<link rel="stylesheet" href="mscupStyle.css" type="text/css">
+</head>
+<body>
+<header>
+		<h1>Stock Prices Analyze</h1>
+		<div class="select-company">
+			<input type="text" class="company-input">
+		</div>
+	</header>
+<div class = "main-page">
+	
+	
+	<main>
+		<section class="mainBlocks">
+			<div class="figure-block"> 
+				<!--<h2 class="graph">Graph</h2>-->
+				
+				<iframe src="stocks/chart.php" id="chart-iframe" class="figure-frame">
+					<span class="iframe-error">iFrames are not supported by your browser</span>
+				</iframe>
+					
+			</div>
+			
+			<div class = "influential-articles-block"> 
+				<!--<h2 class="influential">Influential articles</h2>-->
+				<iframe src="news/influential.php" class="influential-iframe">
+					<span class="iframe-error">iFrames are not supported by your browser</span>
+				</iframe>
+			</div>
+		</section>
+		
+		<article class="mainBlocks"> 
+			<!--<h2 class="articles">Articles</h2>-->
+			<iframe src="news/articles.php" id="articles-iframe" class = "articles-frame">
+				<span class="iframe-error">iFrames are not supported by your browser</span>
+			</iframe>
+		</article>
+	<div style="clear:both;"></div>
+	</main>
+	
+	<footer>
+	</footer>
+	
+</div>
+</body>
+</html>

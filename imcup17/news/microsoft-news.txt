@@ -1,0 +1,140 @@
+{
+	"documents": [
+
+{
+	"Title": "IPO Market Takes Baton of Tech Insanity",
+	"Date": "2017-04-07 15:38:56",
+	"Link": "https://www.bloomberg.com/gadfly/articles/2017-04-07/ipo-investors-take-the-baton-of-tech-valuation-insanity"
+},
+{
+	"Title": "Tech Startups and the Cities That Seduced Them",
+	"Date": "2017-04-07 12:30:07",
+	"Link": "https://www.bloomberg.com/view/articles/2017-04-07/tech-startups-and-the-cities-that-seduced-them"
+},
+{
+	"Title": "Bloomberg Markets: Companies Start Using AI in the Cloud",
+	"Date": "2017-04-06 20:54:38",
+	"Link": "https://www.bloomberg.com/news/audio/2017-04-06/bloomberg-markets-companies-start-using-ai-in-the-cloud"
+},
+{
+	"Title": "Amazon Takes Voice Battle With Apple TV Outside U.S.",
+	"Date": "2017-04-06 12:21:12",
+	"Link": "https://www.bloomberg.com/news/articles/2017-04-06/amazon-takes-voice-battle-with-apple-tv-outside-u-s"
+},
+{
+	"Title": "After a Rocky 2016, New Tableau CEO Seeks Smoother Sales With Subscription Push",
+	"Date": "2017-04-06 11:00:07",
+	"Link": "https://www.bloomberg.com/news/articles/2017-04-06/after-a-rocky-2016-new-tableau-ceo-seeks-smoother-sales-with-subscription-push"
+},
+{
+	"Title": "Beer, Bots and Broadcasts: Companies Start Using AI in the Cloud",
+	"Date": "2017-04-06 10:00:14",
+	"Link": "https://www.bloomberg.com/news/articles/2017-04-06/beer-bots-and-broadcasts-companies-start-using-ai-in-the-cloud"
+},
+{
+	"Title": "EBay Billionaire-Backed Startup Maps Transit Chaos in Slums",
+	"Date": "2017-04-06 03:00:00",
+	"Link": "https://www.bloomberg.com/news/articles/2017-04-06/ebay-billionaire-backed-startup-tries-to-unravel-rickshaw-routes"
+},
+{
+	"Title": "Thousands of U.K. Firms Begin Publishing Gender Pay-Gap Figures",
+	"Date": "2017-04-05 23:01:00",
+	"Link": "https://www.bloomberg.com/news/articles/2017-04-05/thousands-of-u-k-firms-begin-publishing-gender-pay-gap-figures"
+},
+{
+	"Title": "U.K. Increases Pressure on Google to Remove Terrorist Content",
+	"Date": "2017-04-05 21:00:00",
+	"Link": "https://www.bloomberg.com/politics/articles/2017-04-05/u-k-increases-pressure-on-google-to-remove-terrorist-content"
+},
+{
+	"Title": "Leon Cooperman Sees Stocks Rising Modestly by End of Year",
+	"Date": "2017-04-05 16:29:27",
+	"Link": "https://www.bloomberg.com/news/articles/2017-04-05/cooperman-sees-stocks-gradually-rising-on-solid-economic-data"
+},
+{
+	"Title": "Here’s How They Play Monopoly in America, and Who Wins",
+	"Date": "2017-04-05 14:00:24",
+	"Link": "https://www.bloomberg.com/news/articles/2017-04-05/here-s-how-they-play-monopoly-in-america-and-who-wins"
+},
+{
+	"Title": "Former Visa CEO Scharf Named Chairman of New York City Ballet",
+	"Date": "2017-04-05 14:00:22",
+	"Link": "https://www.bloomberg.com/news/articles/2017-04-05/former-visa-ceo-scharf-named-chairman-of-new-york-city-ballet"
+},
+{
+	"Title": "Who’s Stealing From Your Dad Right Now?",
+	"Date": "2017-04-05 10:00:15",
+	"Link": "https://www.bloomberg.com/news/articles/2017-04-05/this-woman-fights-the-scammers-after-your-parents-money"
+},
+{
+	"Title": "What Would Jesus Disrupt?",
+	"Date": "2017-04-05 10:00:07",
+	"Link": "https://www.bloomberg.com/news/features/2017-04-05/what-would-jesus-disrupt"
+},
+{
+	"Title": "These Were Trump’s Questions About Air Force One, According to the General He Grilled",
+	"Date": "2017-04-05 09:00:03",
+	"Link": "https://www.bloomberg.com/politics/articles/2017-04-05/trump-asked-lots-of-questions-on-air-force-one-general-says"
+},
+{
+	"Title": "H-1B Visa Overhaul Could Actually Benefit Big Tech Companies",
+	"Date": "2017-04-04 21:02:53",
+	"Link": "https://www.bloomberg.com/news/articles/2017-04-04/u-s-visa-revamp-poised-to-benefit-big-u-s-tech-punish-outsourcers"
+},
+{
+	"Title": "Forget Apple. Xiaomi CEO Now Wants to Be More Like Costco",
+	"Date": "2017-04-04 21:00:00",
+	"Link": "https://www.bloomberg.com/news/articles/2017-04-04/forget-apple-xiaomi-ceo-now-wants-to-be-more-like-costco"
+},
+{
+	"Title": "Citadel Securities Hires Former SEC Official as General Counsel",
+	"Date": "2017-04-04 17:48:53",
+	"Link": "https://www.bloomberg.com/news/articles/2017-04-04/citadel-securities-hires-former-sec-official-as-general-counsel"
+},
+{
+	"Title": "The Pros and Cons of an Android-Powered World",
+	"Date": "2017-04-04 15:02:18",
+	"Link": "https://www.bloomberg.com/view/articles/2017-04-04/the-pros-and-cons-of-an-android-powered-world"
+},
+{
+	"Title": "Storage Startup Attracts New Funding at Valuation of More Than $500 Million",
+	"Date": "2017-04-04 14:00:10",
+	"Link": "https://www.bloomberg.com/news/articles/2017-04-04/storage-startup-attracts-new-funding-at-valuation-of-more-than-500-million"
+},
+{
+	"Title": "These Hackathon Hustlers Make Their Living From Corporate Coding Contests",
+	"Date": "2017-04-04 10:00:07",
+	"Link": "https://www.bloomberg.com/news/features/2017-04-04/these-hackathon-hustlers-make-their-living-from-corporate-coding-contests"
+},
+{
+	"Title": "Behind the Push To Reform U.S. Work Visa Programs: QuickTake Q&A",
+	"Date": "2017-04-03 19:35:23",
+	"Link": "https://www.bloomberg.com/politics/articles/2017-04-03/behind-the-push-to-reform-u-s-work-visa-programs-quicktake-q-a"
+},
+{
+	"Title": "Trump Cracks Down on H-1B Visa Program That Feeds Silicon Valley",
+	"Date": "2017-04-03 16:49:24",
+	"Link": "https://www.bloomberg.com/news/articles/2017-04-03/new-h-1b-guidelines-crack-down-on-computer-programmer-jobs"
+},
+{
+	"Title": "The Bloomberg View CEO Challenge: Meet the Champ",
+	"Date": "2017-04-03 14:58:56",
+	"Link": "https://www.bloomberg.com/view/articles/2017-04-03/jeff-bezos-prevails-in-the-bloomberg-view-ceo-challenge"
+},
+{
+	"Title": "Facebook, Microsoft Helping to Finance Green Power Microgrids",
+	"Date": "2017-04-03 14:31:11",
+	"Link": "https://www.bloomberg.com/news/articles/2017-04-03/facebook-microsoft-helping-to-finance-green-power-microgrids"
+},
+{
+	"Title": "Former Google Vice President Starts a Company Promising Clean and Safe Nuclear Energy",
+	"Date": "2017-04-03 11:45:07",
+	"Link": "https://www.bloomberg.com/news/articles/2017-04-03/former-google-vice-president-starts-a-company-promising-clean-and-safe-nuclear-energy"
+},
+{
+	"Title": "Silicon Valley's Spooked by Trump and Mexico Sees an Opportunity",
+	"Date": "2017-04-03 10:00:00",
+	"Link": "https://www.bloomberg.com/news/articles/2017-04-03/silicon-valley-s-trump-scare-spurs-bold-bid-by-mexico-s-tech-hub"
+}
+]
+}

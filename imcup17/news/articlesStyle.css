@@ -1,0 +1,31 @@
+
+@import url('https://fonts.googleapis.com/css?family=Slabo+27px');
+
+html, body {
+	font-family: 'Slabo 27px', serif;
+	height: 100%;
+	/*background-color: white;*/
+}
+
+h3 {
+	border: 0px solid red;
+	position: relative;
+	bottom: 10px;
+}
+
+.time-block {
+	position: relative;
+	bottom: 20px;
+}
+
+
+.anArticle {
+	border: 0px solid black;
+	min-height: 40px;
+	/*height: 65px;*/
+	height: auto;
+}
+
+a:link { text-decoration: none; color: Black; }
+a:visited { text-decoration: none; color: Black; }
+a:hover { text-decoration: none; color: Black; }
