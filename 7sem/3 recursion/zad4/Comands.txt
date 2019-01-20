@@ -1,0 +1,4 @@
+path C:\Program Files\Java\jdk1.8.0_66\bin
+cd C:\Users\zork3\AppData\Local\Programs\Python\Python35\hw\7sem\zad4
+javac SierpinskyCurve.java
+appletviewer SierpinskyCurve.html
